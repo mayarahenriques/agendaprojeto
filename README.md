@@ -19,17 +19,16 @@ O projeto utiliza um banco de dados para armazenar informações essenciais.
 
 # Imagens do projeto
 
+<div>
 > Tela Inicial
-![Tela Inicial](https://ibb.co/qs6JFsY)
-
+  <img src="./agenda1.png">
 > Editar informaçãos de contato
-![Editar informações](https://ibb.co/WtCDZCS)
-
+  <img src="./editar.png">
 > Criar contato
-![Criar contato](https://ibb.co/T4tHxvS)
-
+  <img src="./criar.png">
 > Contato removido com sucesso
-![Contat removido](https://ibb.co/W3V4jVQ)
+  <img src="./deletar.png">
+</div>
 
 # Contato
 
