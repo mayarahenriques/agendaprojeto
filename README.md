@@ -19,16 +19,7 @@ O projeto utiliza um banco de dados para armazenar informações essenciais.
 
 # Imagens do projeto
 
-<div>
-> Tela Inicial
-  <img src="./agenda1.png">
-> Editar informaçãos de contato
-  <img src="./editar.png">
-> Criar contato
-  <img src="./criar.png">
-> Contato removido com sucesso
-  <img src="./deletar.png">
-</div>
+![Texto alternativo](agenda1.jpg)
 
 # Contato
 
