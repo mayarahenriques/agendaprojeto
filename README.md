@@ -19,7 +19,8 @@ O projeto utiliza um banco de dados para armazenar informações essenciais.
 
 # Imagens do projeto
 
-![Funcionalidade Principal](https://github.com/mayarahenriques/agendaprojeto/blob/main/blob/agenda1.png)
+![Funcionalidade Principal](https://github.com/mayarahenriques/agendaprojeto/blob/main/blob/agenda1.PNG)
+
 
 # Contato
 
