@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Consiste em uma aplicação de listagem de contatos com conexão com MySQL por meio do PDO no PHP.
+Desenvolvimento de um sistema de agenda, utilizando PHP. A aplicação consiste em uma simples listagem de contatos com conexão com o MySQL por meio do PDO.
 
 # Banco de Dados
 
